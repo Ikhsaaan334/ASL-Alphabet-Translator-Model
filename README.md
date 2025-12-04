@@ -53,7 +53,7 @@ source venv/bin/activate
 
 To train the model from scratch, run the training script
 ```
-python train_model.py
+python main.py
 ```
 
 ***Testing / Prediction***

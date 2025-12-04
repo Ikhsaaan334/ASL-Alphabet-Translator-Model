@@ -50,6 +50,7 @@ source venv/bin/activate
 ```
 
 ***Training the Model***
+
 To train the model from scratch, run the training script
 ```
 python train_model.py
@@ -61,6 +62,7 @@ python predict.py
 ```
 
 ***Model Performance***
+
 Current model metrics:
 <img width="1200" height="500" alt="training_history" src="https://github.com/user-attachments/assets/8b2e4f05-d6eb-451f-b959-163e9a8bf7d1" />
 

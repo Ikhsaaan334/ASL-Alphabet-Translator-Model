@@ -65,5 +65,4 @@ python predict.py
 
 Current model metrics:
 <img width="1200" height="500" alt="training_history" src="https://github.com/user-attachments/assets/8b2e4f05-d6eb-451f-b959-163e9a8bf7d1" />
-
-
+<img width="1194" height="272" alt="Screenshot 2025-11-20 042910" src="https://github.com/user-attachments/assets/5757a97c-4d1f-4ad8-b14d-6e8f23f8019b" />
